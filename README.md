@@ -19,7 +19,7 @@ Welcome to my SQL Projects Portfolio! This repository contains two folders, each
   - Query optimization for large datasets.  
 
 ### 2. [Housing Data Cleaning](./DataCleaning)  
-- **Description**: This project focuses on cleaning and standardizing a real estate dataset containing housing project data.  
+- **Description**: This project focuses on cleaning and standardizing a real estate dataset containing Nashville housing data.  
 - **Highlights**:  
   - Standardized and formatted dates for consistency.  
   - Populated missing property addresses using joins and ISNULL logic.  
@@ -38,7 +38,6 @@ Welcome to my SQL Projects Portfolio! This repository contains two folders, each
 
 - **SQL Server Management Studio (SSMS)**  
 - **SQL** for data querying, cleaning, and analysis  
-- **Power BI** (if applicable, for visualization in the COVID project)  
 
 ---
 
