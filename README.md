@@ -12,7 +12,6 @@ Welcome to my SQL Projects Portfolio! This repository contains two folders, each
 - **Highlights**:  
   - Aggregated global data to calculate key metrics like infection rates, recovery trends, and death rates.  
   - Used SQL queries for filtering, grouping, and deriving insights based on country and timeline.  
-  - Showcased visualizations created using Power BI (if applicable).  
 - **Skills Demonstrated**:  
   - Data aggregation and transformations.  
   - Statistical calculations.  
