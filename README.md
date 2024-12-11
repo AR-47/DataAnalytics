@@ -46,4 +46,10 @@ Feel free to reach out for collaboration or queries!
 
 **R J Adithya Yadav**  
 - Email: [adithyayadav641@gmail.com]  
-- LinkedIn: [www.linkedin.com/in/adithya-yadav-6214a7286](#)  
+- LinkedIn: [www.linkedin.com/in/adithya-yadav-6214a7286](#)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
