@@ -51,5 +51,5 @@ Feel free to reach out for collaboration or queries!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENCE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
 
